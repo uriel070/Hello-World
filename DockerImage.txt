@@ -1,3 +1,4 @@
 Docker Image
 
+https://hub.docker.com/r/uriel070/flaskapp/tags
 docker pull uriel070/flaskapp:v1
